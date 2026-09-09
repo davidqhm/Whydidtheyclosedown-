@@ -1,6 +1,6 @@
 var config = {
     style: 'mapbox://styles/davidqhm/cmtqpx8yh00g501pm7c7vh8kj',
-    accessToken: 'pk.eyJ1IjoiZGF2aWRxaG0iLCJhIjoiY210aml4am9mMDZhaDJ5cXVnbzB3YXY5cSJ9.awm66AGQEKZvYhSOHNx0NQ',
+    accessToken: 'pk.eyJ1IjoiZGF2aWRxaG0iLCJhIjoiY210amcyeGhqMDk1ejJ4c2g0Y3dzNDN6biJ9.dZ3B2FSQbxl3T6avXHqQvQ',
     showMarkers: false,
     markerColor: '#3FB1CE',
 
